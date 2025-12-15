@@ -44,7 +44,7 @@
     "url": "https://github.com/RomikMakavana/tiptap-pagination-plus"
   },
   "peerDependencies": {
-    "@tiptap/core": "^2.0.0",
-    "@tiptap/pm": "^2.0.0"
+    "@tiptap/core": "^3.13.0",
+    "@tiptap/pm": "^3.13.0"
   }
 }
